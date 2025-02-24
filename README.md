@@ -1,4 +1,4 @@
 # inteligencia-artificial
 
--Ciência da computação
+-Ciência da computação\
 -Klaus Siegfried Beckmann
